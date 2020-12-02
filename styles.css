@@ -35,7 +35,7 @@
     background-image: url("images/marvel\ background\ 2.jpg");
     height:100%; 
     width:100% ;
-    background-position: top, no-repeat;
+    background-position: top;
     text-align: center;
 }
 .container{
@@ -46,9 +46,6 @@
     text-align: center;
     font-family: Geneva;
     font-size: 15pt;
-}
-.max-size{
-    max-block-size: 5;
 }
 .icons{
     color: floralwhite;
